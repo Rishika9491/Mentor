@@ -1,0 +1,40 @@
+body {
+  background:url(back2.jpg);
+  font-size: 39;
+  padding-top: 1cm;
+  color:  rgb(231, 106, 127);
+  font-family: cursive;
+}
+
+table,
+tr {
+  border-spacing: 30px;
+  font-size: 0.58cm;
+  color: rgba(12, 12, 11, 0.986);
+  font-family: Geneva;
+}
+input {
+  width: 8cm;
+  height: 1cm;
+  border-radius: 10px;
+  font-family: Geneva;
+  font-size: 22;
+  color: rgba(12, 12, 11, 0.986);
+}
+select {
+  width: 8cm;
+  height: 1cm;
+  border-radius: 10px;
+  font-size: 20;
+  font-family: Geneva;
+  color: rgba(12, 12, 11, 0.986)
+}
+textarea {
+
+  border-radius: 10px;
+   font-size: 20;
+  font-family: geneva;
+  color: rgba(12, 12, 11, 0.986);
+}
+
+
