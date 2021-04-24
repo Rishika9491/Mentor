@@ -42,7 +42,7 @@
 }
 .tl {
   width: 7cm;
-  height: 13cm;
+  height: 15cm;
   margin: 40px 15px;
   border-radius: 12px;
   display: block;
@@ -76,11 +76,11 @@
 .tl p {
   font-size:15px;
   text-align: center;
-  font-family:fantasy;
+  font-family:Times New Roman;
 }
 footer {
   color: rgb(7, 7, 7);
-  padding-top:10cm;
+  padding-top:8cm;
  text-align: center;
   padding-bottom: 0cm;
  /* background-color:rgb(49, 47, 47); */
@@ -151,8 +151,8 @@ footer {
     padding-left: 0.2cm;
     padding-top:4cm;
   }
-  .la b {
-    font-family: sans-serif;
+   .la a {
+    font-family: inherit;
     font-size: 14;
     text-shadow: none;
   }
