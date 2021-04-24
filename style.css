@@ -38,7 +38,7 @@
   font-size:0.5cm;
   font-family: Times New Roman;
   color: rgb(149, 16, 238);
-  /*background-color:rgb(49, 47, 47); */
+ /* background-color:rgb(49, 47, 47); */
 }
 .tl {
   width: 7cm;
@@ -192,5 +192,7 @@ footer {
     padding-left: 30px;
   }
 }
+
+   
 
    
